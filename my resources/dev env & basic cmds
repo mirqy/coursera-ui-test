@@ -1,0 +1,9 @@
+1. Setup:
+	1. Install node
+	2. Install browser-sync: npm install -g browser-sync
+3. Use browser sync: browser-sync start --server --directory --files "*"
+	1.Issue with port 3000 for browser-sync. Solution: https://github.com/docker/for-win/issues/3171
+4. Websites:
+	1. Share javascript code with others: https://jsfiddle.net
+	2. https://codepen.io
+	3. https://css-tricks.com
